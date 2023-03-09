@@ -1,9 +1,9 @@
 {
 	"name": "tw.edu.ltu.dcd.unity.create_folder",
-	"displayName": "Create Folder Templates",
+	"displayName": "DCD Create Templates",
 	"version": "1.0.0",
 	"unity": "2020.3",
-	"author": "Po-Lung Wu",
+	"author": "Department of Digital Content Design ,Ling Tung University",
 	"description": "Utilities for Unity Project",
 	"dependencies": {
 	},
